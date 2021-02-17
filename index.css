@@ -1,8 +1,13 @@
+:root {
+    box-sizing: border-box;
+    background-color: #68dbca;
+}
+
 h1 {
-    color: aqua;
+    color: green;
     background-color: beige;
 }
 
 h4 {
-    color: blueviolet;
+    color: darkslateblue;
 }
